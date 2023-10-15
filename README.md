@@ -1,7 +1,6 @@
-# CS50
-
-## Quiz App/ I.Q. Test Program 
-
+# Quiz App/ I.Q. Test Program
+#### Video Demo:  [<URL HERE>](https://youtu.be/7zqMPe4mZ7Q)
+#### Description:
 Imagine having a lively quiz game right on your computer that's not only enjoyable but also a great way to test your general knowledge. Say hello to the C Quiz App - an engaging, text-based quiz that brings fun and education to your screen.
 
 **What You Can Do:**
